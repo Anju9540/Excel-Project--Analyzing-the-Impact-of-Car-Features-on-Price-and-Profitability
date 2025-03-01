@@ -58,7 +58,3 @@ By applying various data analysis techniques—including regression analysis and
 ## Conclusion ✅
 This project demonstrates the power of Excel in handling complex data analysis tasks within the automotive industry. By cleaning and analyzing the data, key insights regarding car features, pricing, and market segmentation were uncovered. These insights can be leveraged by manufacturers to refine pricing strategies and prioritize features that align with consumer demand.
 
-
----
-
-Feel free to explore, contribute, and share your feedback! 😊
